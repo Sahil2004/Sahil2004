@@ -1,4 +1,6 @@
-<!--![banner]()-->
+![banner](https://pbs.twimg.com/profile_banners/1282934689460678656/1596993870/600x200)
+
+---
 
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sahil Garg!
 
