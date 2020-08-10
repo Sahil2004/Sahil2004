@@ -9,10 +9,10 @@
 * **Backend**: NodeJS, Rust, Python, Golang-->
 ## Technologies & tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS code-informational?style=flat&logo=editor&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=editor&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=scss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Tailwind CSS-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
