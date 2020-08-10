@@ -8,7 +8,7 @@
 * **Frontend**: HTML, CSS, SCSS, Vanilla JavaScript, Tailwind CSS, Vue.js
 * **Backend**: NodeJS, Rust, Python, Golang-->
 ## Technologies & tools
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
 ---
 
