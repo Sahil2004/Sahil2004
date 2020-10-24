@@ -1,47 +1,25 @@
-![banner](https://pbs.twimg.com/profile_banners/1282934689460678656/1599326777/1500x500)
+<h1 align="center">Hi 👋, I'm Sahil Garg</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil2004&label=Profile%20views&color=0e75b6&style=flat" alt="sahil2004" /> </p>
 
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sahil Garg!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil2004" alt="sahil2004" /></a> </p>
 
----
-
-## Technologies & tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IplaceMyCode-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-
----
-
-## Blogging  &#x270f;
-You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='30'>](https://dev.to/real_sahilgarg)  where I post my articles.
-
+<p align="left"> <a href="https://twitter.com/real_sahilgarg" target="blank"><img src="https://img.shields.io/twitter/follow/real_sahilgarg?logo=twitter&style=for-the-badge" alt="real_sahilgarg" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/real_sahilgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="real_sahilgarg" height="30" width="40" /></a>
+<a href="https://twitter.com/real_sahilgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="real_sahilgarg" height="30" width="40" /></a>
+</p>
 
-## I am also lurking on ⚡
-[LinkedIn <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/sahil-garg-aa776b17b/) **|** [Twitter <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@real_SahilGarg) **|** [Dev To <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/real_sahilgarg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil2004&show_icons=true&locale=en&layout=compact" alt="sahil2004" /></p>
 
-## My GitHub Stats &#x1f4c8;
-
-<a href="https://github.com/Sahil2004/Sahil2004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil2004&hide=Makefile,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Sahil2004/Sahil2004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahil2004&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sahil's GitHub Stats" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil2004&show_icons=true&locale=en" alt="sahil2004" /></p>
