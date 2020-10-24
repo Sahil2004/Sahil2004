@@ -59,3 +59,8 @@ You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 <a href="https://github.com/Sahil2004/Sahil2004">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahil2004&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sahil's GitHub Stats" />
 </a>
+
+---
+
+## Show your appreciation by Starring My Repos!
+<a href="https://www.patreon.com/sahilgarg"><img src="https://www.challies.com/wp-content/uploads/2015/11/patreonsupport.png" height="100px"></a>
