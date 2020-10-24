@@ -28,6 +28,9 @@ You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 
 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Design Systems now have CODE with the new XD extension for VS Code](https://dev.to/real_sahilgarg/design-systems-now-have-code-with-the-new-xd-extension-for-vs-code-3ood)
+- [How to uninstall and reinstall play store without root](https://dev.to/real_sahilgarg/how-to-uninstall-and-reinstall-play-store-without-root-3lff)
+- [Journey of my first CSS art](https://dev.to/real_sahilgarg/journey-of-my-first-css-art-512o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
