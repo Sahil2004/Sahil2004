@@ -48,4 +48,3 @@ You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 <a href="https://github.com/Sahil2004/Sahil2004">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahil2004&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sahil's GitHub Stats" />
 </a>
-[![Sahil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sahil2004)](https://github.com/anuraghazra/github-readme-stats)
