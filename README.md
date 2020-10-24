@@ -26,7 +26,7 @@
 You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='30'>](https://dev.to/real_sahilgarg)  where I post my articles.
 
 
-### Blogs posts
+📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
