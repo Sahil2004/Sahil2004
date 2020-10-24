@@ -4,6 +4,9 @@
 
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sahil Garg!
 
+I am a FOSS user and always recommend FOSS alternatives to normal products. Privacy matters the most. Spreading awareness about it is one of the topmost priorities for me. I was a Linux user but had to come back to Windows for the Adobe suite as it can't be replaced with anything near them.
+
+I am a web developer. Can work on fullstack but frontend is my strength. I have won multiple coding contests hosted by big organisations!
 
 ---
 
