@@ -44,6 +44,8 @@ You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 - [Journey of my first CSS art](https://dev.to/real_sahilgarg/journey-of-my-first-css-art-512o)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://dev.to/real_sahilgarg)
+
 ---
 
 ## I am also lurking on ⚡
