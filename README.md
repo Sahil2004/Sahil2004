@@ -4,6 +4,14 @@
 
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sahil Garg!
 
+
+---
+
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-gold.vercel.app/api/spotify)](https://open.spotify.com/user/x2wzdqg64uxswf6z67ppxvdr7)
+
+
 ---
 
 ## Technologies & tools
