@@ -27,8 +27,8 @@ You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST::START -->
-<!-- BLOG-POST-LIST::END -->
+<!-- <!-- BLOG-POST-LIST::START -->
+<!-- <!-- BLOG-POST-LIST::END -->
 
 ---
 
