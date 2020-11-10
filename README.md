@@ -39,6 +39,7 @@ You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 
 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Rust is good for Web Assembly and path to learning it...](https://dev.to/real_sahilgarg/why-rust-is-good-for-web-assembly-and-path-to-learning-it-2njf)
 - [Figma for VS Code: Now get styles listing and copying CSS & listing layer tree and a preview of top-level layers](https://dev.to/real_sahilgarg/figma-for-vs-code-now-get-styles-listing-and-copying-css-listing-layer-tree-and-a-preview-of-top-level-layers-4m3f)
 - [Design Systems now have CODE with the new XD extension for VS Code](https://dev.to/real_sahilgarg/design-systems-now-have-code-with-the-new-xd-extension-for-vs-code-3ood)
 - [How to uninstall and reinstall play store without root](https://dev.to/real_sahilgarg/how-to-uninstall-and-reinstall-play-store-without-root-3lff)
