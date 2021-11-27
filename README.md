@@ -6,7 +6,7 @@
 
 I support free software movement and I am a FOSS lover, hence, mostly the software I create is open-source. Privacy matters the most. I am a Linux user, arch btw. 
 
-I am a web developer. Can work on fullstack but frontend is my strength. I have won multiple coding contests hosted by big organisations!
+I am a web developer and a UI/UX designer. I can work on fullstack but frontend happens to be my forte. I have won multiple coding contests hosted by big organisations!
 
 ---
 
