@@ -10,13 +10,6 @@ I am a web developer and a UI/UX designer. I can work on fullstack but frontend 
 
 ---
 
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-gold.vercel.app/api/spotify)](https://open.spotify.com/user/x2wzdqg64uxswf6z67ppxvdr7)
-
-
----
-
 ## Technologies & tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
