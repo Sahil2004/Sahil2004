@@ -4,8 +4,6 @@
 
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sahil Garg!
 
-I support free software movement and I am a FOSS lover, hence, mostly the software I create is open-source. Privacy matters the most. I am a Linux user, arch btw. 
-
 I am a web developer and a UI/UX designer. I can work on fullstack but frontend happens to be my forte. I have won multiple coding contests hosted by big organisations!
 
 ---
