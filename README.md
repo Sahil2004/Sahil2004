@@ -1,7 +1,3 @@
-![banner](https://pbs.twimg.com/profile_banners/1282934689460678656/1599326777/1500x500)
-
----
-
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sahil Garg!
 
 I am a web developer and a UI/UX designer. I can work on fullstack but frontend happens to be my forte. I have won multiple coding contests hosted by big organisations!
