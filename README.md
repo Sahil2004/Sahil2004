@@ -52,6 +52,3 @@ You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 </a>
 
 ---
-
-## Show your appreciation by Starring My Repos!
-<a href="https://www.patreon.com/sahilgarg"><img src="https://www.challies.com/wp-content/uploads/2015/11/patreonsupport.png" height="100px"></a>
