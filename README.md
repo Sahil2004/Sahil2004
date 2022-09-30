@@ -21,7 +21,7 @@ I am a web developer and a UI/UX designer. I can work on fullstack but frontend 
 ---
 
 ## Blogging  &#x270f;
-You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='30'>](https://dev.to/real_sahilgarg)  where I post my articles.
+You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='30'>](https://dev.to/sahilgarg)  where I post my articles.
 
 
 📕 Latest Blog Posts
