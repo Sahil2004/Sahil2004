@@ -33,12 +33,12 @@ You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 - [Design Systems now have CODE with the new XD extension for VS Code](https://dev.to/real_sahilgarg/design-systems-now-have-code-with-the-new-xd-extension-for-vs-code-3ood)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/real_sahilgarg)
+➡️ [more blog posts...](https://dev.to/sahilgarg)
 
 ---
 
 ## I am also lurking on ⚡
-[LinkedIn <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/sahil-garg-aa776b17b/) **|** [Twitter <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@ahoy_Sahil) **|** [Dev To <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/real_sahilgarg)
+[LinkedIn <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/sahil2004) **|** [Twitter <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@ahoy_Sahil) **|** [Dev To <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/real_sahilgarg)
 
 ---
 
