@@ -19,11 +19,11 @@ You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New way to create modals using HTML only](https://dev.to/sahilgarg/new-way-to-create-modals-using-html-only-4a3g)
 - [Why you should use Vue.js](https://dev.to/sahilgarg/why-should-you-use-vue-js-163n)
 - [Houdini](https://dev.to/sahilgarg/houdini-1lbp)
 - [Why Rust is good for Web Assembly and path to learning it...](https://dev.to/sahilgarg/why-rust-is-good-for-web-assembly-and-path-to-learning-it-2njf)
 - [Figma for VS Code: Now get styles listing and copying CSS &amp; listing layer tree and a preview of top-level layers](https://dev.to/sahilgarg/figma-for-vs-code-now-get-styles-listing-and-copying-css-listing-layer-tree-and-a-preview-of-top-level-layers-4m3f)
-- [Design Systems now have CODE with the new XD extension for VS Code](https://dev.to/sahilgarg/design-systems-now-have-code-with-the-new-xd-extension-for-vs-code-3ood)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/sahilgarg)
