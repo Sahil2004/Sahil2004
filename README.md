@@ -19,11 +19,11 @@ You can find me writing on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nesting in CSS - A better way to structure styles](https://dev.to/sahilgarg/nesting-in-css-a-better-way-to-structure-styles-5g8h)
 - [8 ways to center a div: The most common interview question](https://dev.to/sahilgarg/8-ways-to-center-a-div-the-most-common-interview-question-54e)
 - [New way to create modals using HTML only](https://dev.to/sahilgarg/new-way-to-create-modals-using-html-only-4a3g)
 - [Why you should use Vue.js](https://dev.to/sahilgarg/why-should-you-use-vue-js-163n)
 - [Houdini](https://dev.to/sahilgarg/houdini-1lbp)
-- [Why Rust is good for Web Assembly and path to learning it...](https://dev.to/sahilgarg/why-rust-is-good-for-web-assembly-and-path-to-learning-it-2njf)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/sahilgarg)
