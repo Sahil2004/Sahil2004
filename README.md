@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-👨🏻‍💻 I am a full stack developer and I happen to have a forte in front-end.<br>🧐 I understand UI/UX and love working in figma.<br>🏫 Started in high school with web development. Have been trying to master it since...<br>👨🏻‍🎓 Currently pursuing a bachelor's degree in computer science and engineering.<br>🌱 I love learning new technologies, problem solving, and analytical and critical thinking.<br><br>📨 Shoot me an Email at sahil@cybtekk.com or add me on LinkedIn :)
+👨🏻‍💻 I am a full stack developer and I happen to have a forte in front-end.<br>🧐 I understand UI/UX and love working in figma.<br>🏫 Started in high school with web development. Have been trying to master it since...<br>👨🏻‍🎓 Currently pursuing a bachelor's degree in computer science and engineering.<br>🌱 I love learning new technologies, problem solving, and analytical and critical thinking.<br><br>📨 Shoot me an Email at sahil@cryonics.net.in or add me on LinkedIn :)
 
 
 # 🌐 I am also lurking on:
