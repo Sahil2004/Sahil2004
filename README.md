@@ -1,9 +1,5 @@
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sahil Garg!
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Quote" />
-</p>
-
 # 💫 About Me:
 👨🏻‍💻 I am a full stack developer and I happen to have a forte in front-end.<br>🧐 I understand UI/UX and love working in figma.<br>🏫 Started in high school with web development. Have been trying to master it since...<br>👨🏻‍🎓 Currently pursuing a bachelor's degree in computer science and engineering.<br>🌱 I love learning new technologies, problem solving, and analytical and critical thinking.<br><br>📨 Shoot me an Email at sahil@cryonics.net.in or add me on LinkedIn :)
 
